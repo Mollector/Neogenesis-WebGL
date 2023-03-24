@@ -1,0 +1,409 @@
+<linker>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="AccountInfoPanel" preserve="all" />
+    <type fullname="ActionVfx" preserve="all" />
+    <type fullname="AutoDestroyPS" preserve="all" />
+    <type fullname="AvatarEditer" preserve="all" />
+    <type fullname="AvatarItem" preserve="all" />
+    <type fullname="BoostStep" preserve="all" />
+    <type fullname="ButtonClickAnimation" preserve="all" />
+    <type fullname="CanvasGroupFade" preserve="all" />
+    <type fullname="CardAssets" preserve="all" />
+    <type fullname="CardDesPanel" preserve="all" />
+    <type fullname="CardDropRateItemUI" preserve="all" />
+    <type fullname="CardMutantFormation" preserve="all" />
+    <type fullname="CardSeletedView" preserve="all" />
+    <type fullname="CardSkillsUpgradeView" preserve="all" />
+    <type fullname="CardStarsUpgradeView" preserve="all" />
+    <type fullname="ChestDetailsPanel" preserve="all" />
+    <type fullname="ChestOpenPanel" preserve="all" />
+    <type fullname="ClaimStep" preserve="all" />
+    <type fullname="CollectionLoadingMore" preserve="all" />
+    <type fullname="CreateAccountPanel" preserve="all" />
+    <type fullname="EloPointView" preserve="all" />
+    <type fullname="FixTusColliderSelectCardUpgrade" preserve="all" />
+    <type fullname="FloatInventory" preserve="all" />
+    <type fullname="FusionBoostStep" preserve="all" />
+    <type fullname="FusionClaimStep" preserve="all" />
+    <type fullname="FusionMachine" preserve="all" />
+    <type fullname="FusionUpgradeStep" preserve="all" />
+    <type fullname="InventoryItemUI" preserve="all" />
+    <type fullname="InventoryPanel" preserve="all" />
+    <type fullname="LeaderBoardItem" preserve="all" />
+    <type fullname="LeaderBoardPanel" preserve="all" />
+    <type fullname="LoadingContentPopup" preserve="all" />
+    <type fullname="LoadingScences" preserve="all" />
+    <type fullname="LoginPanel" preserve="all" />
+    <type fullname="LoginSubPanel" preserve="all" />
+    <type fullname="MiniBossDuel" preserve="all" />
+    <type fullname="Mollector.BaseSystem.PoolingSystem.PoolItem" preserve="all" />
+    <type fullname="Mollector.BaseSystem.PoolingSystem.PoolManager" preserve="all" />
+    <type fullname="Mollector.BattleLogReplayManager" preserve="all" />
+    <type fullname="Mollector.BuffEffectIcons" preserve="all" />
+    <type fullname="Mollector.Card" preserve="all" />
+    <type fullname="Mollector.CardAssetDatas" preserve="all" />
+    <type fullname="Mollector.ChangeStatDamageEffect" preserve="all" />
+    <type fullname="Mollector.ChangeStatEffect" preserve="all" />
+    <type fullname="Mollector.Client.Battle.APPLY_BURN_DAMAGE" preserve="all" />
+    <type fullname="Mollector.Client.Battle.ArmorPiercing" preserve="all" />
+    <type fullname="Mollector.Client.Battle.CloneMaster" preserve="all" />
+    <type fullname="Mollector.Client.Battle.ConservationProtocol" preserve="all" />
+    <type fullname="Mollector.Client.Battle.ElementalFusion" preserve="all" />
+    <type fullname="Mollector.Client.Battle.Lavaborn" preserve="all" />
+    <type fullname="Mollector.Client.Battle.NormalAttackDefault" preserve="all" />
+    <type fullname="Mollector.Client.Battle.Shockwave" preserve="all" />
+    <type fullname="Mollector.Client.Battle.SkillAttackDefault" preserve="all" />
+    <type fullname="Mollector.Client.Battle.SlaveSpawn" preserve="all" />
+    <type fullname="Mollector.Client.Battle.SoulMaster" preserve="all" />
+    <type fullname="Mollector.Client.Battle.WarningStrike" preserve="all" />
+    <type fullname="Mollector.Client_Attack" preserve="all" />
+    <type fullname="Mollector.Client_Battle" preserve="all" />
+    <type fullname="Mollector.Client_BattleController" preserve="all" />
+    <type fullname="Mollector.Client_CardInit" preserve="all" />
+    <type fullname="Mollector.Client_ChangeState" preserve="all" />
+    <type fullname="Mollector.Client_Effect" preserve="all" />
+    <type fullname="Mollector.Client_Update" preserve="all" />
+    <type fullname="Mollector.DieEffectDetail" preserve="all" />
+    <type fullname="Mollector.DieEffects" preserve="all" />
+    <type fullname="Mollector.EffectAnimation" preserve="all" />
+    <type fullname="Mollector.FreezeEffect" preserve="all" />
+    <type fullname="Mollector.Impact" preserve="all" />
+    <type fullname="Mollector.ImpactAOEBehind" preserve="all" />
+    <type fullname="Mollector.Projectile" preserve="all" />
+    <type fullname="Mollector.Projectile_Arrow" preserve="all" />
+    <type fullname="Mollector.Projectile_DragonFire" preserve="all" />
+    <type fullname="Mollector.QuickTest" preserve="all" />
+    <type fullname="Mollector.ShiedsReflectEffect" preserve="all" />
+    <type fullname="Mollector.Shields" preserve="all" />
+    <type fullname="Mollector.ShieldsEffect" preserve="all" />
+    <type fullname="Mollector.ShieldsReflectIfHurt" preserve="all" />
+    <type fullname="Mollector.Shop.PurchasePopupPanel" preserve="all" />
+    <type fullname="Mollector.SiloMachine" preserve="all" />
+    <type fullname="Mollector.SkillIconData" preserve="all" />
+    <type fullname="Mollector.SoundEffectAttack" preserve="all" />
+    <type fullname="Mollector.SoundEffectAttackControl" preserve="all" />
+    <type fullname="Mollector.SoundEffectHit" preserve="all" />
+    <type fullname="Mollector.SoundEffectHitControl" preserve="all" />
+    <type fullname="Mollector.Tutorial.TutorialAddCardToFormation" preserve="all" />
+    <type fullname="Mollector.Tutorial.TutorialBase" preserve="all" />
+    <type fullname="Mollector.Tutorial.TutorialDailyLoginRewardClaim" preserve="all" />
+    <type fullname="Mollector.Tutorial.TutorialRemoveCard" preserve="all" />
+    <type fullname="Mollector.Tutorial.TutorialSaveFormation" preserve="all" />
+    <type fullname="Mollector.Tutorial.TutorialShopBuyChest" preserve="all" />
+    <type fullname="Mollector.Tutorial.TutorialShopBuyChestByCrystal" preserve="all" />
+    <type fullname="Mollector.Tutorial.TutorialShopConfirmGetChest" preserve="all" />
+    <type fullname="Mollector.Tutorial.TutorialShopOpenChest" preserve="all" />
+    <type fullname="Mollector.Tutorial.TutorialShopOpenChestConfirm" preserve="all" />
+    <type fullname="Mollector.Tutorial.TutorialStarterQuestsClaim" preserve="all" />
+    <type fullname="Mollector.UI.BattlePassPanel" preserve="all" />
+    <type fullname="Mollector.UI.CardCollection" preserve="all" />
+    <type fullname="Mollector.UI.CardCollectionCell" preserve="all" />
+    <type fullname="Mollector.UI.CardCollectionRow" preserve="all" />
+    <type fullname="Mollector.UI.CardFormation" preserve="all" />
+    <type fullname="Mollector.UI.CardListCollectionRow" preserve="all" />
+    <type fullname="Mollector.UI.ChangeNamePanel" preserve="all" />
+    <type fullname="Mollector.UI.CollectionFilter" preserve="all" />
+    <type fullname="Mollector.UI.CollectionView" preserve="all" />
+    <type fullname="Mollector.UI.ColliderMachine" preserve="all" />
+    <type fullname="Mollector.UI.CombatLogItem" preserve="all" />
+    <type fullname="Mollector.UI.CombatLogPanel" preserve="all" />
+    <type fullname="Mollector.UI.ConfirmPopupPanel" preserve="all" />
+    <type fullname="Mollector.UI.ConfirmSurrenderPopupPanel" preserve="all" />
+    <type fullname="Mollector.UI.DailyLoginRewardItem" preserve="all" />
+    <type fullname="Mollector.UI.DailyLoginRewardPanel" preserve="all" />
+    <type fullname="Mollector.UI.DuelFlag" preserve="all" />
+    <type fullname="Mollector.UI.DuelFormationView" preserve="all" />
+    <type fullname="Mollector.UI.DuelPanel" preserve="all" />
+    <type fullname="Mollector.UI.DuelYourVanguardDeck" preserve="all" />
+    <type fullname="Mollector.UI.EditFormationView" preserve="all" />
+    <type fullname="Mollector.UI.EloRewardItem" preserve="all" />
+    <type fullname="Mollector.UI.EloRewardPanel" preserve="all" />
+    <type fullname="Mollector.UI.ExplorerPanel" preserve="all" />
+    <type fullname="Mollector.UI.FilterRarityController" preserve="all" />
+    <type fullname="Mollector.UI.FilterStarsController" preserve="all" />
+    <type fullname="Mollector.UI.FloorCardItem" preserve="all" />
+    <type fullname="Mollector.UI.FloorCardSlot" preserve="all" />
+    <type fullname="Mollector.UI.FloorItem" preserve="all" />
+    <type fullname="Mollector.UI.FormationView" preserve="all" />
+    <type fullname="Mollector.UI.GiftCodePanel" preserve="all" />
+    <type fullname="Mollector.UI.ItemReward" preserve="all" />
+    <type fullname="Mollector.UI.LabsPanel" preserve="all" />
+    <type fullname="Mollector.UI.LevelView" preserve="all" />
+    <type fullname="Mollector.UI.ListCardCollection" preserve="all" />
+    <type fullname="Mollector.UI.PointView" preserve="all" />
+    <type fullname="Mollector.UI.ProfilePanel" preserve="all" />
+    <type fullname="Mollector.UI.QuestCardReward" preserve="all" />
+    <type fullname="Mollector.UI.QuestClaimItem" preserve="all" />
+    <type fullname="Mollector.UI.QuestClaimPanel" preserve="all" />
+    <type fullname="Mollector.UI.QuestRewardItem" preserve="all" />
+    <type fullname="Mollector.UI.QuestRewardPanel" preserve="all" />
+    <type fullname="Mollector.UI.QuestRewardPopup" preserve="all" />
+    <type fullname="Mollector.UI.RadiStep1" preserve="all" />
+    <type fullname="Mollector.UI.RadiStep2" preserve="all" />
+    <type fullname="Mollector.UI.SettingPanel" preserve="all" />
+    <type fullname="Mollector.UI.SortFilterController" preserve="all" />
+    <type fullname="Mollector.UI.StarLevelView" preserve="all" />
+    <type fullname="Mollector.UI.TowerFormationView" preserve="all" />
+    <type fullname="Mollector.UI.TowerVanguardAndFormation" preserve="all" />
+    <type fullname="Mollector.UI.UICardDetail" preserve="all" />
+    <type fullname="Mollector.UI.UITower" preserve="all" />
+    <type fullname="Mollector.UI.UITowerFloorInfo" preserve="all" />
+    <type fullname="Mollector.UI.UITowerLeaderBoard" preserve="all" />
+    <type fullname="Mollector.UI.YourFormation" preserve="all" />
+    <type fullname="Mollector.UI.YourVanguardDeck" preserve="all" />
+    <type fullname="Mollector.UIBeginerReward" preserve="all" />
+    <type fullname="Mollector.UserAvatarData" preserve="all" />
+    <type fullname="MutantBoostStep" preserve="all" />
+    <type fullname="MutantClaimStep" preserve="all" />
+    <type fullname="MutantMachine" preserve="all" />
+    <type fullname="MutantUpgradeStep" preserve="all" />
+    <type fullname="NotificationDetailPanel" preserve="all" />
+    <type fullname="NotificationPanel" preserve="all" />
+    <type fullname="NotificationTopViewPanel" preserve="all" />
+    <type fullname="NotiItem" preserve="all" />
+    <type fullname="PlayerItemWB" preserve="all" />
+    <type fullname="PlayerSound" preserve="all" />
+    <type fullname="PreventSpammingButtonClick" preserve="all" />
+    <type fullname="QuestClaimRewardChest" preserve="all" />
+    <type fullname="QuestClaimRewardCurrency" preserve="all" />
+    <type fullname="SettingGamePanel" preserve="all" />
+    <type fullname="ShopItemUI" preserve="all" />
+    <type fullname="ShopPanel" preserve="all" />
+    <type fullname="SiloMachineUpgrade" preserve="all" />
+    <type fullname="SoundRegister" preserve="all" />
+    <type fullname="SpinElectric" preserve="all" />
+    <type fullname="StarterQuestItemRewardAmount" preserve="all" />
+    <type fullname="StarterQuestItemView" preserve="all" />
+    <type fullname="StarterQuestPanel" preserve="all" />
+    <type fullname="SuperScrollView.LoopListView2" preserve="all" />
+    <type fullname="SuperScrollView.LoopListViewItem2" preserve="all" />
+    <type fullname="TabBottomMainMenu" preserve="all" />
+    <type fullname="TestChangeStateSpine" preserve="all" />
+    <type fullname="ToolTipPanel" preserve="all" />
+    <type fullname="TowerLeaderBoardItem" preserve="all" />
+    <type fullname="UIBonusTree" preserve="all" />
+    <type fullname="UICardDetailLabsPanel" preserve="all" />
+    <type fullname="UICardDetailSkillItem" preserve="all" />
+    <type fullname="UICollection" preserve="all" />
+    <type fullname="UIScale" preserve="all" />
+    <type fullname="UISortFilterCollection" preserve="all" />
+    <type fullname="UIView" preserve="all" />
+    <type fullname="UnityEngine.UI.Extensions.Gradient" preserve="all" />
+    <type fullname="UnityEngine.UI.Extensions.ReorderableList" preserve="all" />
+    <type fullname="UnityEngine.UI.Extensions.UISelectableExtension" preserve="all" />
+    <type fullname="UpdateCheckPanel" preserve="all" />
+    <type fullname="UpgradeStep" preserve="all" />
+    <type fullname="WebGLSupport.WebGLInput" preserve="all" />
+    <type fullname="WorldBossDuel" preserve="all" />
+    <type fullname="WorldBossMainPanel" preserve="all" />
+    <type fullname="WorldBossRewardItem" preserve="all" />
+    <type fullname="ButtonQuest" preserve="nothing" serialized="true" />
+    <type fullname="CardData" preserve="nothing" serialized="true" />
+    <type fullname="CardRarity" preserve="nothing" serialized="true" />
+    <type fullname="CardType" preserve="nothing" serialized="true" />
+    <type fullname="Mollector.IconBuffDetail" preserve="nothing" serialized="true" />
+    <type fullname="Mollector.Tutorial.TutorialData" preserve="nothing" serialized="true" />
+    <type fullname="Mollector.Tutorial.TutorialFocusSize" preserve="nothing" serialized="true" />
+    <type fullname="Mollector.Tutorial.TutorialPointerPosition" preserve="nothing" serialized="true" />
+    <type fullname="Mollector.Tutorial.TutorialStepData" preserve="nothing" serialized="true" />
+    <type fullname="Mollector.Tutorial.TutorialType" preserve="nothing" serialized="true" />
+    <type fullname="Mutant" preserve="nothing" serialized="true" />
+    <type fullname="SoundRegister/ButtonSound" preserve="nothing" serialized="true" />
+    <type fullname="SuperScrollView.ItemPrefabConfData" preserve="nothing" serialized="true" />
+    <type fullname="Unit" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Extensions.ReorderableList/ReorderableListHandler" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Extensions.UISelectableExtension/UIButtonEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="spine-unity, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="Spine.Unity.BoneFollowerGraphic" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonDataAsset" preserve="all" />
+    <type fullname="Spine.Unity.SkeletonGraphic" preserve="all" />
+    <type fullname="Spine.Unity.SpineAtlasAsset" preserve="all" />
+    <type fullname="Spine.Unity.BlendModeMaterials" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.BlendModeMaterials/ReplacementMaterial" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.MeshGenerator" preserve="nothing" serialized="true" />
+    <type fullname="Spine.Unity.MeshGenerator/Settings" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.Localization, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Localization.Components.LocalizeStringEvent" preserve="all" />
+    <type fullname="UnityEngine.Localization.Locale" preserve="all" />
+    <type fullname="UnityEngine.Localization.Settings.LocalizationSettings" preserve="all" />
+    <type fullname="UnityEngine.Localization.Tables.SharedTableData" preserve="all" />
+    <type fullname="UnityEngine.Localization.Tables.StringTable" preserve="all" />
+    <type fullname="UnityEngine.Localization.LocaleIdentifier" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.MetadataCollection" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Settings.CommandLineLocaleSelector" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Settings.LocalesProvider" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Settings.LocalizedAssetDatabase" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Settings.LocalizedStringDatabase" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Settings.SpecificLocaleSelector" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Settings.SystemLocaleSelector" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Core.Parsing.Parser" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Core.Settings.SmartSettings" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Extensions.ChooseFormatter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Extensions.ConditionalFormatter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Extensions.DefaultFormatter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Extensions.DefaultSource" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Extensions.DictionarySource" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Extensions.IsMatchFormatter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Extensions.ListFormatter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Extensions.PersistentVariablesSource" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Extensions.PluralLocalizationFormatter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Extensions.ReflectionSource" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Extensions.SubStringFormatter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Extensions.TimeFormatter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Extensions.ValueTupleSource" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Extensions.XElementFormatter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.Extensions.XmlSource" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.SmartFormatter" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Metadata.Comment" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableEntryData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.DistributedUIDGenerator" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.SharedTableData/SharedTableEntry" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Events.UnityEventString" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.LocalizedString" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.PersistentVariables.StringVariable" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.SmartFormat.PersistentVariables.VariableNameValuePair" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableEntryReference" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Localization.Tables.TableReference" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.RenderPipelines.Universal.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rendering.Universal.PostProcessData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.UniversalRendererData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.XRSystemData" preserve="all" />
+    <type fullname="UnityEngine.Rendering.Universal.PostProcessData/ShaderResources" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Universal.PostProcessData/TextureResources" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Universal.ScriptableRendererData/DebugShaderResources" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Universal.StencilStateData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Universal.UniversalRendererData/ShaderResources" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Rendering.Universal.XRSystemData/ShaderResources" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshPro" preserve="all" />
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_Dropdown" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.TMP_InputField" preserve="all" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/DropdownEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionData" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Dropdown/OptionDataList" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphPairAdjustmentRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_GlyphValueRecord" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TextSelectionEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_InputField/TouchScreenKeyboardEvent" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEditor.Audio.AudioMixerSnapshotController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animation" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Audio.AudioMixer" preserve="all" />
+    <type fullname="UnityEngine.Audio.AudioMixerGroup" preserve="all" />
+    <type fullname="UnityEngine.AudioClip" preserve="all" />
+    <type fullname="UnityEngine.AudioSource" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.SpriteRenderer" preserve="all" />
+    <type fullname="UnityEngine.TextAsset" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.TrailRenderer" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Events.ArgumentCache" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentCallGroup" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.PersistentListenerMode" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.Events.UnityEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.RectOffset" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.ParticleSystemModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ParticleSystem" preserve="all" />
+    <type fullname="UnityEngine.ParticleSystemRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.SpriteMaskModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.SpriteMask" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.AspectRatioFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.InputField" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.RawImage" preserve="all" />
+    <type fullname="UnityEngine.UI.RectMask2D" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Toggle" preserve="all" />
+    <type fullname="UnityEngine.UI.ToggleGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.AnimationTriggers" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Button/ButtonClickedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ColorBlock" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.FontData" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/EndEditEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/OnChangeEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.InputField/SubmitEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.MaskableGraphic/CullStateChangedEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Navigation" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.ScrollRect/ScrollRectEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Scrollbar/ScrollEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Slider/SliderEvent" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.SpriteState" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.UI.Toggle/ToggleEvent" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
+  </assembly>
+</linker>

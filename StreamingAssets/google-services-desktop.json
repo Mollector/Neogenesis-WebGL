@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27153533480",
+    "project_id": "neogenesis-14a30",
+    "storage_bucket": "neogenesis-14a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27153533480:android:7a75540537bb01e882831d",
+        "android_client_info": {
+          "package_name": "com.hocon.neogenesis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27153533480-f69j26nqjki5tm5ki1h49jtudrkvtcmq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMv-KKtN6MavnmQUmDdQaGkdr7Iyh5HoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27153533480-f69j26nqjki5tm5ki1h49jtudrkvtcmq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
