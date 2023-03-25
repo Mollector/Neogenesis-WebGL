@@ -20,6 +20,7 @@
     <type fullname="ClaimStep" preserve="all" />
     <type fullname="CollectionLoadingMore" preserve="all" />
     <type fullname="CreateAccountPanel" preserve="all" />
+    <type fullname="DepositView" preserve="all" />
     <type fullname="EloPointView" preserve="all" />
     <type fullname="FixTusColliderSelectCardUpgrade" preserve="all" />
     <type fullname="FloatInventory" preserve="all" />
